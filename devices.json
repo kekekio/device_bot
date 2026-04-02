@@ -1,0 +1,26 @@
+{
+  "ESP32_02": {
+    "state": "free",
+    "users": [],
+    "occupied_at": null,
+    "room_id": null
+  },
+  "Raspberry_Pi": {
+    "state": "free",
+    "users": [],
+    "occupied_at": null,
+    "room_id": null
+  },
+  "ESP32_01": {
+    "state": "free",
+    "users": [],
+    "occupied_at": null,
+    "room_id": null
+  },
+  "ESP32_011": {
+    "state": "free",
+    "users": [],
+    "occupied_at": null,
+    "room_id": null
+  }
+}

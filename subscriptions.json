@@ -1,0 +1,6 @@
+{
+  "ESP32_01": [],
+  "ESP32_02": [
+    "@testuser:localhost"
+  ]
+}

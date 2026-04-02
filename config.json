@@ -1,0 +1,12 @@
+{
+    "homeserver": "http://localhost:8008",
+    "username": "device_bot",
+    "password": "your_secure_password",
+    "command_prefix": "!",
+    "data_file": "devices.json",
+    "subscriptions_file": "subscriptions.json",
+    "subscription_rooms_file": "subscription_rooms.json",
+    "sync_token_file": "sync_token.txt",
+    "sync_timeout": 30000,
+    "localpart_domain": "localhost"
+}
