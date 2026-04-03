@@ -22,8 +22,6 @@ PASSWORD = CONFIG["password"]
 COMMAND_PREFIX = CONFIG.get("command_prefix", "!")
 
 DATA_FILE = CONFIG.get("data_file", "devices.json")
-SUBSCRIPTIONS_FILE = CONFIG.get("subscriptions_file", "subscriptions.json")
-SUBSCRIPTION_ROOMS_FILE = CONFIG.get("subscription_rooms_file", "subscription_rooms.json")
 SYNC_TOKEN_FILE = CONFIG.get("sync_token_file", "sync_token.txt")
 
 SYNC_TIMEOUT = CONFIG.get("sync_timeout", 30000)
